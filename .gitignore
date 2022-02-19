@@ -3,7 +3,6 @@
 # dependencies
 /node_modules
 /chatfrontend/node_modules
-/chatfrontend/build
 /.pnp
 .pnp.js
 
