@@ -1,6 +1,6 @@
-#Deployed on Heroku
+#Deployed on Netlify
 
-https://mern-chattapp.herokuapp.com/
+https://mern-chattapp.netlify.app/
 
 # Getting Started with Create React App
 
