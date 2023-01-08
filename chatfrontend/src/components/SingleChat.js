@@ -20,7 +20,7 @@ import io from "socket.io-client";
 import Lottie from "react-lottie";
 import animationData from "./6652-dote-typing-animation.json";
 
-const ENDPOINT = "https://mern-chatapp.vercel.app/";
+const ENDPOINT = "https://mern-chattapp.netlify.app/";
 
 var socket, selectedChatCompare;
 
