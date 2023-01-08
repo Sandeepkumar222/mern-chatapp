@@ -1,6 +1,5 @@
 #Deployed on Netlify
 
-https://mern-chattapp.netlify.app/
 
 # Getting Started with Create React App
 
